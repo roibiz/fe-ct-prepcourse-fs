@@ -213,7 +213,7 @@ function doWhile(num) {
    // Tu código: 
    var contador= 1;
    do{
-      console.log('Vuelta N°', contador);
+      
       contador ++;
       num=num +5;
           
